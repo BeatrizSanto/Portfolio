@@ -1,4 +1,5 @@
 import React from "react"
+<<<<<<< HEAD
 import Header from "../../Header/Header"
 import styled from  "styled-components"
 import Perfildois from "../../Imagem/Perfildois.png"
@@ -56,5 +57,18 @@ export default function Home(){
            
 
         </Container>
+=======
+import {Link} from "react-router-dom"
+
+export default function Home(){
+    return(
+        <div>
+            <h1>Bem- vindo ao meu Site </h1>
+            <Link to="/about">About</Link>
+            <Link to = "/works">Works</Link>
+            <Link to = "/">Home</Link>
+
+        </div>
+>>>>>>> 10ba6dc9c6fb15f9e5ea0d7fa6fb6db8a8fdb4d4
     )
 }

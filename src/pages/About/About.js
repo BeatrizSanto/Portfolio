@@ -1,4 +1,5 @@
 import React from "react"
+<<<<<<< HEAD
 import Perfil from "../../Imagem/Perfil.png"
 import styled from  "styled-components"
 import linkedin from "../../Imagem/footer_01.png"
@@ -93,3 +94,17 @@ export default function About(){
             
     )
 }
+=======
+import {Link}  from "react-router-dom"
+export default function About(){
+    return(
+        <div>
+            <h1>About</h1>
+            <Link to="/about">About</Link>
+            <Link to = "/works">Works</Link>
+            <Link to = "/">Home</Link>
+
+        </div>
+    )
+}
+>>>>>>> 10ba6dc9c6fb15f9e5ea0d7fa6fb6db8a8fdb4d4
