@@ -1,6 +1,6 @@
 import {createGlobalStyle} from "styled-components"
 
-export const GlobalStyle = createGlobalStyle` 
+export const GlobalStyle = createGlobalStyle`
 
 
 H1{
@@ -31,7 +31,4 @@ nav{
 Perfil img{
     height: auto;
     width: 250px;
-  }
-  
-`
-
+  }`

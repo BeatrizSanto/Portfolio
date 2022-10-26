@@ -1,9 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "portfolio1",
-=======
+
   "name": "portfolio",
->>>>>>> 10ba6dc9c6fb15f9e5ea0d7fa6fb6db8a8fdb4d4
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
