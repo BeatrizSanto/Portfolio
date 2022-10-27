@@ -81,10 +81,10 @@ export default function About(){
             </div>
             </Section>
             <Div>
-                <a href="https://www.linkedin.com/in/beatriz--santos/" target="_blank">
+                <a href="https://www.linkedin.com/in/beatriz--santos/" target="_blank" rel="noreferrer" >
                     <img src={linkedin} alt="linkedin" />
                 </a>
-                <a href="https://github.com/BeatrizSanto" target="_blank">
+                <a href="https://github.com/BeatrizSanto" target="_blank" rel="noreferrer" >
                     <img src={github} alt="github"/>
                 </a>
             </Div>
