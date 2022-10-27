@@ -1,6 +1,4 @@
 import React from "react"
-
-import Header from "../../Header/Header"
 import styled from  "styled-components"
 import Perfildois from "../../Imagem/Perfildois.png"
 
